@@ -1,4 +1,4 @@
-# hobbysite-CSCI40C-group3
+# hobbysite-C-3
 
 ## Members
 - Keith C. Ayeras
